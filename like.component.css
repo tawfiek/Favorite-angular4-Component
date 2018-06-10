@@ -1,0 +1,10 @@
+.glyphicon{
+    color: #ccc ; 
+    cursor: pointer; 
+}
+.active{
+    color: deeppink ; 
+}
+h3{
+    color: black
+}
